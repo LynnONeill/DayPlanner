@@ -12,6 +12,4 @@ Project Status: This project is complete
 
 I had assistance from my tutor: Mike Munoz on this project.
 
-Below is a screenshot of the Day Planner:
-
-https://github.com/LynnONeill/DayPlanner/issues/1#issue-534469376
+https://lynnoneill.github.io/DayPlanner/
